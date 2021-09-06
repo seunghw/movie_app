@@ -25,7 +25,6 @@ function App() {
   return (
     <div className="App">
       <div style={{ width: "100%", margin: "0" }}>
-        <div>하이</div>
         {Movies && (
           <React.Fragment>
             <Test

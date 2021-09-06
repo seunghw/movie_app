@@ -1,5 +1,4 @@
-// eslint-disable-next-line
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 function MainImage(props) {
   return (
